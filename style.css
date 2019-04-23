@@ -1,0 +1,13 @@
+.unti-login-button
+{
+	margin: 10px 0;
+	color: white;
+	background: #e52127;
+	border: #e52127;
+}
+
+.unti-login-button:hover, .unti-login-button:active, .unti-login-button:focus
+{
+	background: #c8171d !important;
+	border: #bd161b !important;
+}

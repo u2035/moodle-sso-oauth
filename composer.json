@@ -1,0 +1,13 @@
+{
+	"name": "unti/moodle_sso_oauth",
+	"authors": [
+		{
+			"name": "Andrey Malashikhin",
+			"email": "andreymalashikhin@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=7.0",
+		"league/oauth2-client": "^2.4.1"
+	}
+}
